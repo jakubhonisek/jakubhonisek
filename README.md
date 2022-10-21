@@ -6,6 +6,15 @@
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jakub-honisek/)
 * ❤️ I love [React](https://github.com/facebook/react)
 
+## 🚀 My Stats
+
+<span>
+    <img src="https://github-readme-stats.vercel.app/api?username=jakubhonisek&show_icons=true&hide_border=true&count_private=true&hide_rank=true&bg_color=22272E&text_color=adbac7&title_color=FFF&icon_color=3178C6&hide=stars" alt="My GitHub Stats">
+</span>
+<span>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jakubhonisek&layout=compact&langs_count=6&bg_color=22272E&text_color=adbac7&title_color=FFF&hide_border=true" alt="My Wakatime Stats">
+</span>
+
 ## 🛠️ Skills
 ### Front-end Development
 
