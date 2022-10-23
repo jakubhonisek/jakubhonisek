@@ -67,6 +67,8 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
+![Stylelint](https://img.shields.io/badge/testcafe-1274CC?style=for-the-badge&logo=testcafe&logoColor=white)
+![Stylelint](https://img.shields.io/badge/cypress-192634?style=for-the-badge&logo=cypress&logoColor=white)
 
 ## 💻 Workspace
 
@@ -83,5 +85,8 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jakubhonisek.cz/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jakub-honisek/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jakubhonisek)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/honisek.jakub)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jakubhonisek.jakubhonisek" alt="visitors">
+<div style="display: none;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=jakubhonisek.jakubhonisek" alt="visitors">
+</div>
